@@ -1,4 +1,3 @@
-# Flask-Authentication-App
 # Flask Gmail Authentication App
 
 Welcome to the Flask Gmail Authentication App! This web application allows users to sign in using their Gmail account and displays their profile information.
